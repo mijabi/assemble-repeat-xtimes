@@ -1,7 +1,7 @@
 {
   "name": "assemble-repeat-xtimes",
-  "version": "0.0.5",
-  "description": "Handlebars helper for assemble that allows repeat x times on {{#each}}",
+  "version": "0.0.6",
+  "description": "This helper allows you to do something only once every x times during {{# each}}.",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
