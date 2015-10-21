@@ -1,0 +1,26 @@
+{
+  "name": "assemble-repeat-xtimes",
+  "version": "0.0.1",
+  "description": "Handlebars helper for assemble that allows repeat x times on {{#each}}",
+  "main": "assemble-repeat-xtimes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mijabi/assemble-repeat-xtimes.git"
+  },
+  "keywords": [
+    "assemble",
+    "each",
+    "repeat",
+    "grunt",
+    "handlebars"
+  ],
+  "author": "mijabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mijabi/assemble-repeat-xtimes/issues"
+  },
+  "homepage": "https://github.com/mijabi/assemble-repeat-xtimes"
+}
