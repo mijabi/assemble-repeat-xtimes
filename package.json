@@ -1,6 +1,6 @@
 {
   "name": "assemble-repeat-xtimes",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This helper allows you to do something only once every x times during {{# each}}.",
   "main": "./index.js",
   "scripts": {
